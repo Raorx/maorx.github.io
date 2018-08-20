@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on XU LAB</title>
+    <link>http://cmaorx.github.io/zh/page/</link>
+    <description>Recent content in Pages on XU LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Aug 2018 09:38:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://cmaorx.github.io/zh/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://cmaorx.github.io/zh/page/about/</link>
+      <pubDate>Sun, 12 Aug 2018 09:38:11 +0800</pubDate>
+      
+      <guid>http://cmaorx.github.io/zh/page/about/</guid>
+      <description>p{text-indent: 1cm} 课题组负责人简介 徐瑞华，医学博士（M.D., Ph.D.）&amp;rsquo;。中山大学肿瘤防治中心院长、所长，国家新药（抗肿瘤药物）临床试验中</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://cmaorx.github.io/zh/page/people/</link>
+      <pubDate>Sun, 12 Aug 2018 09:37:57 +0800</pubDate>
+      
+      <guid>http://cmaorx.github.io/zh/page/people/</guid>
+      <description>等哈UI的户外哈佛 iu 我会否我好烦 iu 好</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://cmaorx.github.io/zh/page/contact/</link>
+      <pubDate>Sun, 12 Aug 2018 09:28:09 +0800</pubDate>
+      
+      <guid>http://cmaorx.github.io/zh/page/contact/</guid>
+      <description>P{background-color: gray} 邮箱 :bioinfo@sysucc.org.cn 地址:广东省广州市越秀区东风东路651号</description>
+    </item>
+    
+  </channel>
+</rss>

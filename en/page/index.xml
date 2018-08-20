@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on XU LAB</title>
+    <link>http://cmaorx.github.io/en/page/</link>
+    <description>Recent content in Pages on XU LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Aug 2018 17:00:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://cmaorx.github.io/en/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about us</title>
+      <link>http://cmaorx.github.io/en/page/about/</link>
+      <pubDate>Fri, 10 Aug 2018 17:00:04 +0800</pubDate>
+      
+      <guid>http://cmaorx.github.io/en/page/about/</guid>
+      <description>p{text-indent: 1cm}  
+ Brief Introduction of the Leader of the Task Force    Xu Ruihua, M.D. ( M.D. ), Ph. D.).Director of the cancer prevention and treatment center of Sun Yat-sen University;baijie, the new century talents of the Ministry of Education, Member of the Department of Biology and Medicine of the Science and Technology Commission of the Ministry of Education, vice president of the Chinese Society of Clinical Oncology ( CSCO ), and vice director of the China Medical Biotechnology Association chairman of the Guangdong Anti-Cancer Association, chairman of the targeted therapy Committee of the China Anti-Cancer Association, and the chemotherapy section of the large intestine cancer committee of the China Anti-Cancer Associationteam leader,Journal Of Chief editor of cancer.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://cmaorx.github.io/en/page/people/</link>
+      <pubDate>Fri, 10 Aug 2018 09:58:09 +0800</pubDate>
+      
+      <guid>http://cmaorx.github.io/en/page/people/</guid>
+      <description>#bbb{ Background-color:#000; }</description>
+    </item>
+    
+    <item>
+      <title>CONTACT</title>
+      <link>http://cmaorx.github.io/en/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cmaorx.github.io/en/page/contact/</guid>
+      <description>P{background-color: #EAEAEA} E-mail :bioinfo@sysucc.org.cn &amp;nbsp; Address: Yuexiu district of Guangzhou City, Guangdong Province, Dongfeng East Road No. 651</description>
+    </item>
+    
+  </channel>
+</rss>

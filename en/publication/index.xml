@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on XU LAB</title>
+    <link>http://cmaorx.github.io/en/publication/</link>
+    <description>Recent content in Publications on XU LAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Aug 2018 14:59:52 +0800</lastBuildDate>
+    
+	<atom:link href="http://cmaorx.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018article</title>
+      <link>http://cmaorx.github.io/en/publication/2018article/</link>
+      <pubDate>Fri, 10 Aug 2018 14:59:52 +0800</pubDate>
+      
+      <guid>http://cmaorx.github.io/en/publication/2018article/</guid>
+      <description>Cell Res Feng Wang, Dong-Bing Liu, Qi Zhao, Gang Chen, Xin-Ming Liu, Ying-Nan Wang, Hong Su, Yan-Ru Qin, Yi-Fu He, Qing-Feng Zou, Yan-Hui Liu, You-En Lin, Ze-Xian Liu, Jin-Xin Bei, Rui-Hua Xu The genomic landscape of small cell carcinoma of the esophagus.In Cell Res. 2018 May 4. Cancer Res Yun-Xin Lu, Huai-Qiang Ju, Ze-Xian Liu, Dong-Liang Chen, Yun Wang, Qi Zhao, Qi-Nian Wu, Zhao-lei Zeng, Hai-Bo Qiu, Pei-Shan Hu, Zhi-Qiang</description>
+    </item>
+    
+  </channel>
+</rss>
